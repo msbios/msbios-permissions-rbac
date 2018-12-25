@@ -8,6 +8,7 @@ namespace MSBios\Permissions\Rbac;
 /**
  * Class Module
  * @package MSBios\Permissions\Rbac
+ * @link https://olegkrivtsov.github.io/using-zend-framework-3-book/html/en/Role_Based_Access_Control.html
  */
 class Module extends \MSBios\Module
 {

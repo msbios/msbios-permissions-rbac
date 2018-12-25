@@ -24,6 +24,8 @@
     }
   },
   "require": {
+    "zendframework/zend-permissions-rbac": "^3.0",
+    "msbios/cache": "^1.0"
   },
   "require-dev": {
     "msbios/application": "^1.0",
